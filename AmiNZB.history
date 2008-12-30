@@ -1,0 +1,36 @@
+
+ ===============================
+   AmiNZB  -  List of changes
+ =========================================
+
+
+ -----------------
+  09/04/2007  0.4
+ -----------------------------
+
+  * Removed MUI escapes to change pen colors from the info list.
+
+ -----------------
+  19/03/2007  0.3
+ -----------------------------
+
+  * Added new button at the settings window to receive the list of available
+    groups for the selected server.
+  * AmiNZB missed the 201 code reply for welcome messages (which indicates
+    the server do not allow posting) to accept a connection - Fixed.
+
+ -----------------
+  11/03/2007  0.2
+ -----------------------------
+
+  * Added yEnc decoder, found at www.yenc.org
+  * Added new settings option to use a free server as it can be found from
+    http://www.newsservers.net/ - AmiNZB will automaticaly check the server
+    connectivity before adding it.
+
+ -----------------
+  27/02/2007  0.1
+ -----------------------------
+
+  * First working version (just the MUI interface, and Usenet manager)
+
