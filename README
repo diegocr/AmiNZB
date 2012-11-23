@@ -1,0 +1,7 @@
+
+This repo contains a *never-finished* NZB client for AmigaOS
+
+It was a multi-threaded application using the MUI graphical
+interface, but i've stopped working on it since i've found
+NZBGet and realized it was less work to just port that...
+
